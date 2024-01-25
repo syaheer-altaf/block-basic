@@ -13,7 +13,7 @@ To enjoy BLOCK, follow these easy steps:
 
 ```
 bash
-git clone <>
+git clone https://github.com/syaheer-altaf/block-basic.git
 ```
 
 2. **Install QB64:**
